@@ -1,0 +1,77 @@
+.brand-logo {
+   margin:10px;
+ }
+
+ .homepage h3 {
+  text-align: center;
+} 
+.homepage {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.posts {
+  margin-bottom: 10px;
+  padding:5px;
+}
+
+.posts h3 {
+  text-align: center;
+}
+
+.section h5 a {
+  color: black;
+}
+
+.about h3 {
+  text-align: center;
+}
+
+.about p {
+  padding: 20px;
+   
+}
+
+.authors {
+  width: 80%;
+  margin-left: 80px;
+}
+
+.authors h3{
+  text-align: center;
+}
+
+.authorInfo h4 a{
+  color:black;
+}
+
+.singleAuthor {
+  margin:10px;
+}
+
+.singleAuthor a {
+  color:black;
+}
+
+.authorInfo  {
+  margin-left: 200px;
+}
+
+.authorAdress {
+  margin-left: 200px;
+
+}
+.authorCompany {
+  margin-left: 200px;
+}
+
+.singleAuthor hr {
+  width: 80%;
+ margin-left: 0;
+}
+
+.postBlock h3 a {
+  color:black;
+}
+
+
