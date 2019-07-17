@@ -23,8 +23,4 @@ const Footer = () => {
 }
 export { Footer }
 
- // <div className="footer">
-        //     <footer>
-        //         <p>Copyright &copy; BIT {time}</p>
-        //     </footer>
-        // </div>
+  

@@ -21,16 +21,4 @@ const Header = (props) => {
 export { Header }
 
 
-
-// <nav className="navbarHeader">
-//     <div className="header">
-//         <div className="bitHead">
-//             <h1>BIT BLOG</h1>
-//         </div>
-//         <div className="links">
-//             <span><Link to="/">Home</Link></span>
-//             <span><Link to="/authors">Authors</Link></span>
-//             <span><Link to="/about">About</Link></span>
-//         </div>
-//     </div>
-// </nav>
+ 
