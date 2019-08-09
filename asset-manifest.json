@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bit-blog-sasha/static/css/main.b5e9680b.chunk.css",
+    "main.js": "/bit-blog-sasha/static/js/main.9dac8c67.chunk.js",
+    "main.js.map": "/bit-blog-sasha/static/js/main.9dac8c67.chunk.js.map",
+    "runtime~main.js": "/bit-blog-sasha/static/js/runtime~main.be59d0fb.js",
+    "runtime~main.js.map": "/bit-blog-sasha/static/js/runtime~main.be59d0fb.js.map",
+    "static/js/2.b9083c5c.chunk.js": "/bit-blog-sasha/static/js/2.b9083c5c.chunk.js",
+    "static/js/2.b9083c5c.chunk.js.map": "/bit-blog-sasha/static/js/2.b9083c5c.chunk.js.map",
+    "index.html": "/bit-blog-sasha/index.html",
+    "precache-manifest.73f4a01d60528cb68cf9595cc0b0c962.js": "/bit-blog-sasha/precache-manifest.73f4a01d60528cb68cf9595cc0b0c962.js",
+    "service-worker.js": "/bit-blog-sasha/service-worker.js",
+    "static/css/main.b5e9680b.chunk.css.map": "/bit-blog-sasha/static/css/main.b5e9680b.chunk.css.map"
+  }
+}
